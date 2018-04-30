@@ -25,7 +25,6 @@ C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\bin\Rel
 C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ResolveAssemblyReference.cache
 C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.Form1.resources
 C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.Form2.resources
-C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.Form3.resources
 C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.Form4.resources
 C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.Form5.resources
 C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.JinXiangCaiJi.resources
@@ -42,3 +41,8 @@ C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Rel
 C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.csproj.GenerateResource.Cache
 C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.exe
 C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.pdb
+C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.ZengZhiShui.resources
+C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\Interop.Office.dll
+C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.csproj.ResolveComReference.cache
+C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\bin\Release\Interop.Office.dll
+C:\Users\huaqingbo\Documents\Visual Studio 2005\Projects\ShenBao\ShenBao\obj\Release\ShenBao.Import.resources
